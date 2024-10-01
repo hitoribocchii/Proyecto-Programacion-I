@@ -5,8 +5,6 @@ def inputNum(min, max):
         num = int(input())
     return num
 
-#pene
-
 # Variables necesarias para las funciones
 locomotoras = ["CNR CKD8", "ALCo RSD-35", "Pacific 4-6-2"]
 maxVagones = 10
